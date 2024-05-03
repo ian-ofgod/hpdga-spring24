@@ -7,7 +7,7 @@ using namespace utils;
 using namespace hnsw;
 
 int main() {
-    const string base_dir = "/home/users/ian.didio/hpdga-spring24/hnsw/";
+    const string base_dir = "FILL_WITH_YOUR_PATH";
 
     int k = 100;
     int m = 16;
